@@ -44,7 +44,7 @@ CC Tokens are continuously listed on other exchanges to enable the CarbonSwap Li
 - CarbonSwap Fees distributed between Carbon Corps and Liquidity Providers
 - Minting ratio of CC Token: 30% to CarbonCorps, 70% to Entity Making Green Initiatives. CarbonSwap is intended to have the best purchase price of CC Token from higher demand than on other DEXes, as offset certificate for the project is only issuable on CarbonSwap. Thus minters will naturally trade more on CarbonSwap.
 
-## This proposed model is not final and is still under refinement 
+
 
 ### Token addresses on Lisk Sepolia:
 - CC Token: 0xafC9D020d0b67522337058f0fDea057769dd386A
